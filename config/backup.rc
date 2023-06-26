@@ -1,0 +1,7 @@
+backup_dir=""
+config_file="config/backup.rc"
+s3_bucket=""
+s3_destination=""
+remove_backups=false
+download_dir=""
+version=""

@@ -5,6 +5,7 @@
 ## Description
 
 Backup Manager is a script that allows you to create, remove, and download backups of selected files/folders on an AWS S3 server. It provides a simple and automated way to manage your backups.
+This script was developed as a part of a university coursework assignment.
 
 ## Features
 
